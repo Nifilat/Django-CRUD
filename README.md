@@ -6,4 +6,4 @@ CRUD Django app using CBV
 
 ### Homepage
 
-![Homepage] (https://drive.google.com/file/d/1NeE8MJfAEPgo8tSq9_Xn5z-vCKoAGNlV/view?usp=sharing)
+![Homepage](https://drive.google.com/file/d/1NeE8MJfAEPgo8tSq9_Xn5z-vCKoAGNlV/view?usp=sharing)
